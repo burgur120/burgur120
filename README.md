@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @burgur120
+- 👋 Hi, I’m @burgur120 (my real name is Sebastian)
 - 👀 I’m interested in playing and making games
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me: tiktok - burgur120
+- 📫 How to reach me: TikTok - burgur120
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: im a human 🙀
+- ⚡ Fun fact: im a human 😱😧🤯🤯😦😱😱🤯🤯😱😧😧
 - Niko from the hitgame oneshot!
 <!---
 burgur120/burgur120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
