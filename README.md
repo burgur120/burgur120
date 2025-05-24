@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @burgur120 (my real name is Sebastian)
+- 👋 Hi, I’m @burgur120
 - 👀 I’m interested in playing and making games
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me: TikTok - burgur120
 - 😄 Pronouns: he/him/his
